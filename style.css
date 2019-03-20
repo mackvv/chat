@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+}
+
+#topOfPage {
+    background-color: red;
+}
+
+.p_sendmessage {
+    padding-top: 10px;
+}
+
+#MESSAGES {
+    background-color: #707070;
+    padding-top: 150px;
+}
+
+.user1 {
+    background: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.user2 {
+    background: lightblue;
+    border: 1px solid black;
+    border-radius: 5px;
+}
