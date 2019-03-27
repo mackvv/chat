@@ -1,4 +1,4 @@
-let socket = io("http://localhost:8080");
+let socket = io("https://ofisdfh.azurewebsites.net/");
 
 socket.on('connected', () => {
   let userName = prompt("Enter a username", "UserName");
